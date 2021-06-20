@@ -344,9 +344,6 @@ p {
 	background: #05386B;
 	transform: translateX(-50%);	
 }
-.skills .title::after{
-	content: "what i know"
-}
 .skills .skills-content{
 	display: flex;
 	flex-wrap: wrap;
