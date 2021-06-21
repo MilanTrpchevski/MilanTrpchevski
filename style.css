@@ -268,7 +268,7 @@ p {
 }
 #hero h1:nth-child(3) span {
 	animation-delay: 2.5s;
-	font-weight:800;
+	
 }
 
 
@@ -527,7 +527,7 @@ p {
 @keyframes text_reveal_name {
 	100% {
 		color: #5CDB95;
-		font-weight: 500;
+		font-weight:800;
 	}
 }
 /* End Keyframes */
